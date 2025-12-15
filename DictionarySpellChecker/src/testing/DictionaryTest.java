@@ -46,7 +46,8 @@ public class DictionaryTest {
         dict.removeWord("cleaning");
         assert !dict.checkWord("cleaning");
 
-        /* ================= FINAL OUTPUT ================= */
+        // Final Output
         System.out.println("Successful");
     }
 }
+
